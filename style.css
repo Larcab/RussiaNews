@@ -14,19 +14,8 @@ body{
      text-decoration: none;
 }
 .news{
-     animation: all 0.5s 1;
      margin-top: 140px;
      text-decoration: none;
-}
-@keyframes all{
-     0%{
-          margin-top: 220px;
-          opacity: 0;
-     }
-     100%{
-          margin-top: 140px;
-
-     }
 }
 #rn{
      position: relative;
